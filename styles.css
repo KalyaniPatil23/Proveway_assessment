@@ -2,7 +2,6 @@
     margin: auto;
     width: 30%;
     padding: 10px;
-    /* background-color: aqua; */
 }
 
 .title{
@@ -39,7 +38,7 @@
 #middle {
     margin: auto;
     padding: 10px;
-    /* width: -webkit-fill-available; */
+    padding-bottom: 0;
     margin-left: 10px;
 }
 
@@ -80,4 +79,16 @@
     font-weight: 400;
     font-size: 9.94px;
     line-height: 12.03px;
+}
+
+select{
+    width: 72.3px;
+    height: 25.31px;
+    font-size: 10.85px;
+    line-height: 13.13px;
+}
+
+.number{
+    font-size: 9.04px;
+    line-height: 10.94px;
 }
